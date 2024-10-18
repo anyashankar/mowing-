@@ -1,13 +1,14 @@
 # mowing-
 
-Lawn Mowing Simulation
+The program simulates the process of mowing a lawn with obstacles (trees) and specific constraints. 
 
-The program simulates the process of mowing a lawn with obstacles (trees) and specific constraints. The main components of the problem are:
-Lawn Representation
-The lawn is represented as a 2D grid (String[][]).
+The main components of the problem are:
+**Lawn Representation
+** /n 
+The lawn is represented as a 2D grid (String[][]). /n
 Each cell in the grid can be either empty (".") or contain a tree ("T").
-Mower Movement
-The mower starts at a specified position (startRow, startCol).
+**Mower Movement
+**The mower starts at a specified position (startRow, startCol).
 The mower can move to adjacent cells (up, down, left, right) but cannot move diagonally.
 The mower cannot move onto or through cells containing trees.
 Mowing Process
