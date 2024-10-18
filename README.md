@@ -1,4 +1,4 @@
-# mowing-
+# mowing
 # Lawn Mowing Simulator
 
 This Java program simulates an automated lawn mower navigating and mowing a lawn with obstacles. The simulation is designed to solve a specific algorithmic challenge, likely from a programming competition.
